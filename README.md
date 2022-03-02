@@ -8,4 +8,4 @@ Then run it like:
 ./main -out output_filename.kml <log_file_1.csv> <log_file_2.csv> ...
 
 It will produce a .kml file which can be read by google earth and looks like this:
-!(2021_flight_tracks.PNG)
+![Flight tracks 2021](2021_flight_tracks.PNG "flight tracks 2021")
